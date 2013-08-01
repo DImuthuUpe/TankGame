@@ -1,0 +1,34 @@
+C:\Users\pancha\documents\visual studio 2010\Projects\Tank client\Tank client\bin\Debug\Tank client.exe
+C:\Users\pancha\documents\visual studio 2010\Projects\Tank client\Tank client\bin\Debug\Tank client.pdb
+C:\Users\pancha\documents\visual studio 2010\Projects\Tank client\Tank client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pancha\documents\visual studio 2010\Projects\Tank client\Tank client\obj\x86\Debug\Tank client.exe
+C:\Users\pancha\documents\visual studio 2010\Projects\Tank client\Tank client\obj\x86\Debug\Tank client.pdb
+J:\Tank client\Tank client\obj\x86\Debug\Tank client.exe
+J:\Tank client\Tank client\obj\x86\Debug\Tank client.pdb
+J:\Tank client\Tank client\bin\Debug\Tank client.exe
+J:\Tank client\Tank client\bin\Debug\Tank client.pdb
+J:\Tank client\Tank client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Goody.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P01.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Life.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\bullet.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Bitmap1.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Stone.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Time.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\bg.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\32952.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\cross.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P02.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P03.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P04.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P05.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P06.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\P07.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Content\Font.xnb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Tank client.exe
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\Tank client.pdb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\XNA2DCollisionDetection.exe
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\bin\Debug\XNA2DCollisionDetection.pdb
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\obj\x86\Debug\Tank client.exe
+E:\Docs\Acadamic\Semester 4\PC II\Tank client\Tank client\obj\x86\Debug\Tank client.pdb
