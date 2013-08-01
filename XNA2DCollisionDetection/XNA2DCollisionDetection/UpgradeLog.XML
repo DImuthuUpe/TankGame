@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XNA2DCollisionDetection">
+</Property><Property Name="Solution File" Value="C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection.suo">
+</Property><Property Name="Date" Value="Friday, March 01, 2013">
+</Property><Property Name="Time" Value="23:13 PM">
+</Property><Property Name="Solution" Value="XNA2DCollisionDetection">
+</Property><Property Name="Solution File" Value="C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection.sln">
+</Property><Property Name="Date" Value="Friday, March 01, 2013">
+</Property><Property Name="Time" Value="23:13:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XNA2DCollisionDetection.sln" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection.sln">
+</Event><Event ErrorLevel="0" Project="" Source="XNA2DCollisionDetection.suo" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection.suo">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Project file successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\XNA2DCollisionDetection.csproj">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj.user" Description="Project user file successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\XNA2DCollisionDetection.csproj.user">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Primitives2D.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Primitives2D.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\CollisionDetection2D.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\CollisionDetection2D.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Program.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Program.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\MainGameLoop.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\MainGameLoop.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Sprites\GenericSprite.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Sprites\GenericSprite.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Sprites\Message.cs" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Sprites\Message.cs">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\Game.ico" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\Game.ico">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\GameThumbnail.png" Description="File successfully backed up as C:\Users\Anushka\Downloads\Compressed\XNA2DCollisionDetection\XNA2DCollisionDetection\Backup\XNA2DCollisionDetection\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XNA2DCollisionDetection.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XNA2DCollisionDetection.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetection" Source="XNA2DCollisionDetection\XNA2DCollisionDetection.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Dot.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Font.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Goody.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Ivan.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Life.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="XNA2DCollisionDetectionContent" Source="XNA2DCollisionDetection\Content\XNA2DCollisionDetectionContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

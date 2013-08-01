@@ -1,0 +1,1 @@
+C:\Users\John\Desktop\XNA BLOG\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\obj\x86\Debug\ResolveAssemblyReference.cache

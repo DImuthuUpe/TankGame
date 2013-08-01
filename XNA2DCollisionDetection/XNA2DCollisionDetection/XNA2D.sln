@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA2D", "XNA2DCollisionDetection\XNA2D.csproj", "{345721F6-2C7B-45E0-AAB2-FB137924D517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA2DCollisionDetectionContent", "XNA2DCollisionDetection\Content\XNA2DCollisionDetectionContent.contentproj", "{10487A2C-42DC-45DF-85AB-B06352AB6B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank client", "..\..\Tank client\Tank client\Tank client.csproj", "{7D1C4845-A7B7-44AA-89BF-763FD88DF436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345721F6-2C7B-45E0-AAB2-FB137924D517}.Debug|x86.ActiveCfg = Debug|x86
+		{345721F6-2C7B-45E0-AAB2-FB137924D517}.Debug|x86.Build.0 = Debug|x86
+		{345721F6-2C7B-45E0-AAB2-FB137924D517}.Release|x86.ActiveCfg = Release|x86
+		{345721F6-2C7B-45E0-AAB2-FB137924D517}.Release|x86.Build.0 = Release|x86
+		{10487A2C-42DC-45DF-85AB-B06352AB6B94}.Debug|x86.ActiveCfg = Debug|x86
+		{10487A2C-42DC-45DF-85AB-B06352AB6B94}.Release|x86.ActiveCfg = Release|x86
+		{7D1C4845-A7B7-44AA-89BF-763FD88DF436}.Debug|x86.ActiveCfg = Debug|x86
+		{7D1C4845-A7B7-44AA-89BF-763FD88DF436}.Debug|x86.Build.0 = Debug|x86
+		{7D1C4845-A7B7-44AA-89BF-763FD88DF436}.Release|x86.ActiveCfg = Release|x86
+		{7D1C4845-A7B7-44AA-89BF-763FD88DF436}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

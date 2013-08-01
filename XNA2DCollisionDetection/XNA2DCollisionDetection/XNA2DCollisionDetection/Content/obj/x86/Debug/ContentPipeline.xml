@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Goody.png</Source>
+      <Name>Goody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Goody.xnb</Output>
+      <Time>2013-07-11T15:33:49.1573701+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Ivan.png</Source>
+      <Name>P01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P01.xnb</Output>
+      <Time>2013-03-02T13:49:46.9463806+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Life.png</Source>
+      <Name>Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Life.xnb</Output>
+      <Time>2013-07-11T15:36:38.2080393+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-08-01T20:03:18.0572078+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2013-03-02T12:21:01.9676507+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Stone.png</Source>
+      <Name>Stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Stone.xnb</Output>
+      <Time>2013-07-11T15:32:17.8371469+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Time.png</Source>
+      <Name>Time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Time.xnb</Output>
+      <Time>2013-07-11T15:56:21.4617175+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2010-07-17T22:10:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>32952.png</Source>
+      <Name>32952</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\32952.xnb</Output>
+      <Time>2013-07-12T18:10:26.0818063+05:30</Time>
+    </Item>
+    <Item>
+      <Source>cross.png</Source>
+      <Name>cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\cross.xnb</Output>
+      <Time>2013-07-12T19:34:41.8509797+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank2.png</Source>
+      <Name>P02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P02.xnb</Output>
+      <Time>2013-07-12T23:34:31.5926163+05:30</Time>
+    </Item>
+    <Item>
+      <Source>P03.png</Source>
+      <Name>P03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P03.xnb</Output>
+      <Time>2013-07-29T02:55:38.7397631+05:30</Time>
+    </Item>
+    <Item>
+      <Source>P04.png</Source>
+      <Name>P04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P04.xnb</Output>
+      <Time>2013-07-29T02:57:25.0278424+05:30</Time>
+    </Item>
+    <Item>
+      <Source>P05.png</Source>
+      <Name>P05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P05.xnb</Output>
+      <Time>2013-07-29T03:03:58.0353212+05:30</Time>
+    </Item>
+    <Item>
+      <Source>P06.png</Source>
+      <Name>P06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P06.xnb</Output>
+      <Time>2013-07-29T03:05:05.3891736+05:30</Time>
+    </Item>
+    <Item>
+      <Source>P07.png</Source>
+      <Name>P07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P07.xnb</Output>
+      <Time>2013-07-29T09:45:03.4315982+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-07-28T02:37:53.9175717+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-25T01:32:59.995454+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
