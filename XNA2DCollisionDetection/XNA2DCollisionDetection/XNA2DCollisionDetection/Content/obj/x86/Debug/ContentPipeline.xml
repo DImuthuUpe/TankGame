@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Goody.xnb</Output>
-      <Time>2013-07-11T15:33:50-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Goody.xnb</Output>
+      <Time>2013-08-02T16:42:16.7442206+05:30</Time>
     </Item>
     <Item>
       <Source>Ivan.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P01.xnb</Output>
-      <Time>2013-03-02T12:49:48-08:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P01.xnb</Output>
+      <Time>2013-08-02T16:42:16.7452206+05:30</Time>
     </Item>
     <Item>
       <Source>Life.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Life.xnb</Output>
-      <Time>2013-07-11T15:36:40-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Life.xnb</Output>
+      <Time>2013-08-02T16:42:16.7452206+05:30</Time>
     </Item>
     <Item>
       <Source>bullet.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bullet.xnb</Output>
-      <Time>2013-08-01T20:03:20-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-08-02T16:42:16.7492209+05:30</Time>
     </Item>
     <Item>
       <Source>Bitmap1.bmp</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
-      <Time>2013-03-02T11:21:02-08:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2013-08-02T16:42:16.7432205+05:30</Time>
     </Item>
     <Item>
       <Source>Stone.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Stone.xnb</Output>
-      <Time>2013-07-11T15:32:18-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Stone.xnb</Output>
+      <Time>2013-08-02T16:42:16.7472207+05:30</Time>
     </Item>
     <Item>
       <Source>Time.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Time.xnb</Output>
-      <Time>2013-07-11T15:56:22-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Time.xnb</Output>
+      <Time>2013-08-02T16:42:16.7482208+05:30</Time>
     </Item>
     <Item>
       <Source>bg.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bg.xnb</Output>
-      <Time>2010-07-17T22:10:10-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2013-08-02T16:42:16.7482208+05:30</Time>
     </Item>
     <Item>
       <Source>32952.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\32952.xnb</Output>
-      <Time>2013-07-12T18:10:28-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\32952.xnb</Output>
+      <Time>2013-08-02T16:42:16.7432205+05:30</Time>
     </Item>
     <Item>
       <Source>cross.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\cross.xnb</Output>
-      <Time>2013-07-12T19:34:42-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\cross.xnb</Output>
+      <Time>2013-08-02T16:42:16.7492209+05:30</Time>
     </Item>
     <Item>
       <Source>tank2.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P02.xnb</Output>
-      <Time>2013-07-12T23:34:32-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P02.xnb</Output>
+      <Time>2013-08-02T16:42:16.7532211+05:30</Time>
     </Item>
     <Item>
       <Source>P03.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P03.xnb</Output>
-      <Time>2013-07-29T02:55:40-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P03.xnb</Output>
+      <Time>2013-08-02T16:42:16.7462207+05:30</Time>
     </Item>
     <Item>
       <Source>P04.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P04.xnb</Output>
-      <Time>2013-07-29T02:57:26-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P04.xnb</Output>
+      <Time>2013-08-02T16:42:16.7462207+05:30</Time>
     </Item>
     <Item>
       <Source>P05.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P05.xnb</Output>
-      <Time>2013-07-29T03:04:00-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P05.xnb</Output>
+      <Time>2013-08-02T16:42:16.7462207+05:30</Time>
     </Item>
     <Item>
       <Source>P06.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P06.xnb</Output>
-      <Time>2013-07-29T03:05:06-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P06.xnb</Output>
+      <Time>2013-08-02T16:42:16.7472207+05:30</Time>
     </Item>
     <Item>
       <Source>P07.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P07.xnb</Output>
-      <Time>2013-07-29T09:45:04-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P07.xnb</Output>
+      <Time>2013-08-02T16:42:16.7472207+05:30</Time>
     </Item>
     <Item>
       <Source>Font.spritefont</Source>
@@ -151,8 +151,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2013-07-28T02:37:54-07:00</Time>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-08-02T16:42:16.7442206+05:30</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -160,39 +160,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T12:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-07-29T13:23:56.0359175-07:00</Value>
+        <Value>2013-06-25T01:32:59.995454+05:30</Value>
       </Assembly>
     </Assemblies>
   </Asset>
