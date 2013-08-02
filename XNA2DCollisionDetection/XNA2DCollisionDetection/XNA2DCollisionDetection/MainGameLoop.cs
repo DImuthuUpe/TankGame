@@ -35,6 +35,7 @@ namespace XNA2DCollisionDetection
         private Texture2D _grid;
         private Texture2D _jj;
         private Texture2D background;
+        private Texture2D _log;
 
         private Bullet _bullet;
         private MessageSprite _messageSprite;
@@ -120,7 +121,7 @@ namespace XNA2DCollisionDetection
         {
             _graphics = new GraphicsDeviceManager(this);
             _graphics.PreferredBackBufferHeight = 740;
-            _graphics.PreferredBackBufferWidth = 1100;
+            _graphics.PreferredBackBufferWidth = 1000;
             Content.RootDirectory = "Content";
         }
         protected override void Initialize()
@@ -154,7 +155,7 @@ namespace XNA2DCollisionDetection
             while (initString == null) { }
             reset();
             PointAdd();
-            _messageSprite = new MessageSprite(this, "COLLISION DETECTED", new Vector2(100f, 5f), Color.Red);
+            _messageSprite = new MessageSprite(this, "  Coins    Health", new Vector2(780f, 285f), Color.Red);
             _messageSprite.Visible = false;
             Components.Add(_messageSprite);
 
@@ -219,7 +220,7 @@ namespace XNA2DCollisionDetection
                     if (!playerAvailable)
                     {
                         players.Add(player);
-                        GenericSprite ii = new GenericSprite(this, "P0" + j, new Vector2(40, 40), new Vector2(780f, 400 + 40 * j));
+                        GenericSprite ii = new GenericSprite(this, "P0" + j, new Vector2(40, 40), new Vector2(780f, 300 + 40 * j));
                         ii.Health = 100;
                         playerTable.Add(player, ii);
                         j++;
@@ -247,7 +248,6 @@ namespace XNA2DCollisionDetection
                 long cTime = System.Environment.TickCount;
                 int val = (int)(((cTime - _bullets[i].Time) * 36) / 333);
                 _bullets[i].Speed = val * (new Vector2((float)Math.Cos(_bullets[i].Angle), (float)Math.Sin(_bullets[i].Angle)));
-                Console.WriteLine("CURRENT TIME: " + val + " BULLET TIME " + _bullets[i].Speed);
                 _bullets[i].SetPos(_bullets[i].Speed);
                 //_bullets[i].Time = System.Environment.TickCount;                
 
@@ -385,8 +385,11 @@ namespace XNA2DCollisionDetection
         #region Drawing methos
         protected override void Draw(GameTime gameTime)
         {
-            //GraphicsDevice.Clear(Color.White);
+            
+            //GraphicsDevice.Clear(Color.FloralWhite);
             _spriteBatch.Begin();
+            _spriteBatch.Draw(background, new Rectangle(0, 0, Window.ClientBounds.Width, Window.ClientBounds.Height), null, Color.White, 0, Vector2.Zero, SpriteEffects.None, 1);
+            _messageSprite.Visible = true;
 
             for (int i = 0; i < 20; i++)
             {
@@ -395,8 +398,7 @@ namespace XNA2DCollisionDetection
                     _spriteBatch.Draw(tiles[map[i, j]], new Rectangle(j * tileWidht + 22, i * tileHeight + 22, tileWidht, tileHeight), Color.White);
                 }
             }
-            _spriteBatch.Draw(background, new Rectangle(0, 0, Window.ClientBounds.Width, Window.ClientBounds.Height), null, Color.White, 0, Vector2.Zero, SpriteEffects.None, 0);
-            base.Draw(gameTime);
+            base.Draw(gameTime);            
             _spriteBatch.End();
         }
         #endregion
