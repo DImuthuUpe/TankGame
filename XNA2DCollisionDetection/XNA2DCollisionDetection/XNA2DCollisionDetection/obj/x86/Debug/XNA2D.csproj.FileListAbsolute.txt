@@ -21,3 +21,26 @@ E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetectio
 E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\XNA2DCollisionDetection.pdb
 E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.exe
 E:\Docs\Acadamic\Semester 4\PC II\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.pdb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Goody.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P01.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Life.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bullet.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Stone.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Time.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\bg.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\32952.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\cross.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P02.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P03.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P04.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P05.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P06.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\P07.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Font.xnb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\XNA2DCollisionDetection.exe
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\XNA2DCollisionDetection.pdb
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.exe
+C:\tank\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.pdb

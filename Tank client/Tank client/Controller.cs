@@ -66,7 +66,7 @@ namespace Tank_client
         map[startX,starty].setDirectCount(0);
         map[startX,starty].setDisCount(0);
         map[startX,starty].setParent(null);
-        map[startX,starty].setDirection(0);
+        map[startX,starty].setDirection(stDir);
         queue.AddLast(pos);
         while (queue.Count > 0) {
             int dX = queue.First.Value[0];
@@ -74,7 +74,7 @@ namespace Tank_client
             queue.RemoveFirst();
             data[dX,dY] = 1;
 
-            if ((dX + 1) < mapSize && (dX + 1) >= 0) {
+            if ((dX + 1) < mapSize) {
                 if (data[dX + 1,dY] == 0) {
                     int dirCost = 0;
                     if (map[dX,dY].getDirection() == 2) {
@@ -95,7 +95,7 @@ namespace Tank_client
                 }
             }
 
-            if ((dX - 1) < mapSize && (dX - 1) >= 0) {
+            if ((dX - 1) >= 0) {
                 if (data[dX - 1,dY] == 0) {
                     int dirCost = 0;
                     if (map[dX,dY].getDirection() == 0) {
@@ -117,7 +117,7 @@ namespace Tank_client
                 }
             }
 
-            if ((dY + 1) < mapSize && (dY + 1) >= 0) {
+            if ((dY + 1) < mapSize) {
                 if (data[dX,dY + 1] == 0) {
                     int dirCost = 0;
                     if (map[dX,dY].getDirection() == 1) {
@@ -138,7 +138,7 @@ namespace Tank_client
                 }
             }
 
-            if ((dY - 1) < mapSize && (dY - 1) >= 0) {
+            if ((dY - 1) >= 0) {
                 if (data[dX,dY - 1] == 0) {
                     int dirCost = 0;
                     if (map[dX,dY].getDirection() == 3) {
@@ -160,19 +160,20 @@ namespace Tank_client
             }
 
         }
-        
-        
 
-//        for (int i = 0; i < mapSize; i++) {
-//            for (int j = 0; j < mapSize; j++) {
-//                if (map[i,j].getDisCount() != 500) {
-//                    System.out.print((map[i,j].getDirectCount() + map[i,j].getDisCount()) + "," + map[i,j].getDirection() + "\t");
-//                } else {
-//                    System.out.print("0,0\t");
-//                }
-//            }
-//            System.out.println("");
-//        }
+
+        Console.WriteLine("/////////////////////////////////////////");
+        for (int i = 0; i < mapSize; i++) {
+            for (int j = 0; j < mapSize; j++) {
+                if (map[i,j].getDisCount() != 500) {
+                    Console.Write((map[i,j].getDirectCount() + map[i,j].getDisCount()) + "," + map[i,j].getDirection() + "\t");
+                } else {
+                    Console.Write("0,0\t");
+                }
+            }
+            Console.WriteLine("");
+        }
+        Console.WriteLine("//////////////////////////////////////////");
 
 
 
