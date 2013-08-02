@@ -154,6 +154,15 @@
       <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
       <Time>2013-08-03T01:14:56.7013323+05:30</Time>
     </Item>
+    <Item>
+      <Source>CC.jpg</Source>
+      <Name>CC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\CC.xnb</Output>
+      <Time>2013-08-03T01:34:04.8957358+05:30</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

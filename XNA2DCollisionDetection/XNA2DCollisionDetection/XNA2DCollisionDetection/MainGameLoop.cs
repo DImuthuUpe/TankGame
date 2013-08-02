@@ -34,6 +34,7 @@ namespace XNA2DCollisionDetection
 
         private Texture2D _grid;
         private Texture2D _jj;
+        private Texture2D background;
 
         private Bullet _bullet;
         private MessageSprite _messageSprite;
@@ -142,6 +143,7 @@ namespace XNA2DCollisionDetection
             tiles.Add(Content.Load<Texture2D>("Goody"));
             tiles.Add(Content.Load<Texture2D>("Stone"));
             _jj = Content.Load<Texture2D>("P02");
+            background = Content.Load<Texture2D>("CC");
             _tank2 = new GenericSprite(this, "P02", new Vector2(40 + 36 * 2, 40 + 36 * 3), new Vector2(20, 20));
 
             //Initial pixle gain by 26 26          
@@ -383,7 +385,7 @@ namespace XNA2DCollisionDetection
         #region Drawing methos
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.White);
+            //GraphicsDevice.Clear(Color.White);
             _spriteBatch.Begin();
 
             for (int i = 0; i < 20; i++)
@@ -393,6 +395,7 @@ namespace XNA2DCollisionDetection
                     _spriteBatch.Draw(tiles[map[i, j]], new Rectangle(j * tileWidht + 22, i * tileHeight + 22, tileWidht, tileHeight), Color.White);
                 }
             }
+            _spriteBatch.Draw(background, new Rectangle(0, 0, Window.ClientBounds.Width, Window.ClientBounds.Height), null, Color.White, 0, Vector2.Zero, SpriteEffects.None, 0);
             base.Draw(gameTime);
             _spriteBatch.End();
         }

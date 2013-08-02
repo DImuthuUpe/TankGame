@@ -80,3 +80,4 @@ C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\bin\Debug\XNA
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug\Tank client.exe
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug\Tank client.pdb
+C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\bin\Debug\Content\CC.xnb
