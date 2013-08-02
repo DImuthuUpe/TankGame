@@ -162,7 +162,7 @@ namespace Tank_client
         }
 
 
-        Console.WriteLine("/////////////////////////////////////////");
+        /*Console.WriteLine("/////////////////////////////////////////");
         for (int i = 0; i < mapSize; i++) {
             for (int j = 0; j < mapSize; j++) {
                 if (map[i,j].getDisCount() != 500) {
@@ -173,7 +173,7 @@ namespace Tank_client
             }
             Console.WriteLine("");
         }
-        Console.WriteLine("//////////////////////////////////////////");
+        Console.WriteLine("//////////////////////////////////////////");*/
 
 
 

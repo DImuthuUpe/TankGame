@@ -11,6 +11,7 @@ namespace Tank_client
         TcpClient clientSocket = new TcpClient();
         Controller con;
         List<Coin> coinList = new List<Coin>();
+        List<Health> healthList = new List<Health>();
         string player = "P0";
         public Client()
         {
@@ -32,9 +33,11 @@ namespace Tank_client
         int dir = 0;
         int coins = 0;
         long timeout = 0;
+        int health = 0;
         List<Player> playerList = new List<Player>();
         int mode = 0;
         int max = 0;
+        List<String> deadPlayers = new List<string>();
 
         public void move(string command)
         {
@@ -56,6 +59,7 @@ namespace Tank_client
                         curX = Int32.Parse(splitter[i].Split(';')[1].Split(',')[0]);
                         curY = Int32.Parse(splitter[i].Split(';')[1].Split(',')[1]);
                         dir = Int32.Parse(splitter[i].Split(';')[2]);
+                        health = Int32.Parse(splitter[i].Split(';')[4]);
                         coins = Int32.Parse(splitter[i].Split(';')[5]);
                     }
                     if (splitter[i].ToCharArray()[0] == 'P')
@@ -71,7 +75,7 @@ namespace Tank_client
                     //  System.Console.WriteLine("target " + playerList[max].name);
                     if (playerList[max].health == 0)
                     {
-                        mode = 0;
+                        mode = 0;//need to be changed
                         timeout = 0;
                         Coin c = new Coin();
                         c.x = playerList[max].x;
@@ -230,6 +234,8 @@ namespace Tank_client
                     }
                 }
 
+
+
                 //                for (int i = 0; i < con.mapSize; i++) {
                 //                    for (int j = 0; j < con.mapSize; j++) {
                 //                        if (con.data[i,j] != 1) {
@@ -274,9 +280,13 @@ namespace Tank_client
                 timer++;
 
             }
-            else if (command.ToCharArray()[0] == 'C')
+            else if (command.ToCharArray()[0] == 'C' && command.ToCharArray()[1] == ':')
             {
-                coinList.Add(new Coin(command, timer));               
+                coinList.Add(new Coin(command, timer));
+            }
+            else if (command.ToCharArray()[0] == 'L')
+            {
+                healthList.Add(new Health(command, timer));
             }
 
         }
@@ -310,8 +320,32 @@ namespace Tank_client
             }
 
 
+            finished = false;
+            while (!finished)
+            {
+                finished = true;
+                for (int i = 0; i < healthList.Count; i++)
+                {
+                    Boolean captured = false;
+                    foreach (Player p in playerList)
+                    {
+                        if (((healthList[i].x == p.x) && (healthList[i].y == p.y)) && p.health != 0)
+                        {
+                            captured = true;
+                        }
+                    }
+                    if ((healthList[i].endTime <= timer) || captured)
+                    {
+                        Console.WriteLine("Health removed " + healthList[i].x + " , " + healthList[i].y);
+                        healthList.RemoveAt(i);
+                        finished = false;
+                        break;
+                    }
+                }
+            }
 
-            int[] next = { curX, curY };
+
+            int[] next = { 10, 10 };
             int min = 5000;
             con.createBFSTree();
             foreach (Coin c in coinList)
@@ -321,6 +355,21 @@ namespace Tank_client
                     next[0] = c.x;
                     next[1] = c.y;
                     min = (con.map[c.y, c.x].getDirectCount() + con.map[c.y, c.x].getDisCount());
+                }
+            }
+
+            if (health < 120)
+            {
+                min = 500; //if damaged search for lifepacks
+            }
+
+            foreach (Health h in healthList)
+            {
+                if ((con.map[h.y, h.x].getDirectCount() + con.map[h.y, h.x].getDisCount()) < min)
+                {
+                    next[0] = h.x;
+                    next[1] = h.y;
+                    min = (con.map[h.y, h.x].getDirectCount() + con.map[h.y, h.x].getDisCount());
                 }
             }
 
