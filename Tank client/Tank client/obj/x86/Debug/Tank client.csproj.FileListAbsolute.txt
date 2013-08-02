@@ -81,3 +81,4 @@ C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug\Tank client.exe
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\obj\x86\Debug\Tank client.pdb
 C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\bin\Debug\Content\CC.xnb
+C:\Users\Anushka\Documents\GitHub\TankGame\Tank client\Tank client\bin\Debug\Content\log.xnb

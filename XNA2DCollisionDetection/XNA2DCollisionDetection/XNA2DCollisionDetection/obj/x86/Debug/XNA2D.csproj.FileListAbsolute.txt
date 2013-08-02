@@ -68,3 +68,4 @@ C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisio
 C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.exe
 C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\obj\x86\Debug\XNA2DCollisionDetection.pdb
 C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\CC.xnb
+C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\log.xnb
