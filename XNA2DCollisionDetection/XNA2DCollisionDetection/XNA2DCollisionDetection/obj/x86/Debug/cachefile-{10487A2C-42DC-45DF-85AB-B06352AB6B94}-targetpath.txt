@@ -2,7 +2,6 @@ Content\Goody.xnb
 Content\P01.xnb
 Content\Life.xnb
 Content\bullet.xnb
-Content\Bitmap1.xnb
 Content\Stone.xnb
 Content\Time.xnb
 Content\bg.xnb
@@ -15,3 +14,4 @@ Content\P05.xnb
 Content\P06.xnb
 Content\P07.xnb
 Content\Font.xnb
+Content\Bitmap1.xnb

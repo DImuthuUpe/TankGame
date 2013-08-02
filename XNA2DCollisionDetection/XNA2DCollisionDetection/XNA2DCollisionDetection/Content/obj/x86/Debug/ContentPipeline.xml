@@ -38,15 +38,6 @@
       <Time>2013-08-02T16:42:16.7492209+05:30</Time>
     </Item>
     <Item>
-      <Source>Bitmap1.bmp</Source>
-      <Name>Bitmap1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
-      <Time>2013-08-02T16:42:16.7432205+05:30</Time>
-    </Item>
-    <Item>
       <Source>Stone.png</Source>
       <Name>Stone</Name>
       <Importer>TextureImporter</Importer>
@@ -153,6 +144,15 @@
       <Options>None</Options>
       <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Font.xnb</Output>
       <Time>2013-08-02T16:42:16.7442206+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.png</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anushka\Documents\GitHub\TankGame\XNA2DCollisionDetection\XNA2DCollisionDetection\XNA2DCollisionDetection\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2013-08-03T01:14:56.7013323+05:30</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

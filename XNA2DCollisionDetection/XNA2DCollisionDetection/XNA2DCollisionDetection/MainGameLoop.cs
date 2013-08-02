@@ -316,6 +316,29 @@ namespace XNA2DCollisionDetection
                             _messageSprite.Visible = true;
                     // Brick detection is over
                 }
+                //Bullet hit for any box or tank with box and other empty box (x,y) =(10+36*X,10+36*Y)
+                //changes in system
+                for (int j = 0; j < playerTable.Count; j++)
+                {
+                    GenericSprite player = (GenericSprite)playerTable[players[j]];
+                    for (int i = 0; i < _bullets.Count; i++)
+                    {
+                        if (CollisionDetection2D.PerPixel(_bullet.Texture, _movableSprite.Texture, _bullets[i].Station, player.Position))
+                        {
+                            if (player.Position != _bullets[i].Intial)
+                            {
+                                player.Health -= 10;
+                                _bullets[i].Visible = false;
+                                _bullets.RemoveAt(i);
+                                if (player.Health == 0)
+                                    player.Visible = false;
+                            }
+
+                        }
+                    }
+                    if (player.Health == 0)
+                        playerTable.Remove(player);
+                }
                 //Coins and Health pack detection
                 if (_coinslist.Count > 0)
                     for (int i = 0; i < playerTable.Count; i++)

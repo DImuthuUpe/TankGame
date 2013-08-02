@@ -33,7 +33,14 @@ namespace XNA2DCollisionDetection.Sprites
             get { return _texture; }
             set { _texture = value; }
         }
+        public Vector2 Intial
+        {
+            get
+            {
+                return _position;
+            }
 
+        }
         protected override void Dispose(bool disposing)
         {
             _texture.Dispose();
