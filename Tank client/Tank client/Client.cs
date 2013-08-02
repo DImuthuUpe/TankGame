@@ -79,7 +79,7 @@ namespace Tank_client
                         timeout = 0;
                         Coin c = new Coin();
                         c.x = playerList[max].x;
-                        c.y = playerList[max].y;
+                        c.y = playerList[max].y; 
                         c.endTime = timer + 20000;
                         c.value = playerList[max].coins;
                         coinList.Add(c);
