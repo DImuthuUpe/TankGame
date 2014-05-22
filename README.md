@@ -1,4 +1,3 @@
 TankGame
 ========
-fv
-hasasjas
+A game client developed to connect with Tank Game server and play with other bots.
